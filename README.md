@@ -1,2 +1,2 @@
 # FaceDetection
-This project is an advanced computer vision system that utilizes MTCNN (Multi-task Cascaded Convolutional Networks) to automatically and accurately identify and locate human faces.
+In this face detection project, I utilized the MTCNN algorithm implemented through the mtcnn library in Python. Image processing tasks were performed using OpenCV (cv2). The project was developed in Python, harnessing its versatility and expressive capabilities. The dataset used for training and testing the face detection algorithm was obtained from Kaggle, a popular platform for sharing and exploring datasets. By combining the MTCNN algorithm, OpenCV, Python, and a dataset from Kaggle, an accurate face detection system was created to locate and identify human faces in images.
